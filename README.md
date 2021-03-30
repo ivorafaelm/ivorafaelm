@@ -2,6 +2,10 @@
 - 👀 I’m interested in Ruby, Python and cloud solutions.
 - 🌱 I’m currently learning how to live in this crazy world.
 
+<a href="https://github.com/ivorafaelm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivorafaelm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivorafaelm&layout=compact&langs_count=8&theme=vue-dark"/>
+
 - 📫 How to reach me:
 
 [![Linkedin][1.1]][1]
